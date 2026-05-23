@@ -8,8 +8,27 @@ import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
 
 export const metadata: Metadata = {
-  title: "FTC Team 33554 | Martyrs of Al-Shatt High School",
+  title: "FTC Team 33554 | MS Robotics",
   description: "The official website for FTC Robotics Team 33554 from Al-Shuhada Secondary School in Libya. Building the engineers of the future.",
+
+  icons: {
+    icon: "/logo.png",
+    shortcut: "/logo.png",
+    apple: "/logo.png",
+  },
+
+  openGraph: {
+    title: "FTC Team 33554 | MS Robotics",
+    description: "The official website for FTC Robotics Team 33554 from Al-Shuhada Secondary School in Libya.",
+    images: [
+      {
+        url: "/banner.png",
+        width: 1200,
+        height: 630,
+        alt: "MS Robotics Team",
+      },
+    ],
+  },
 };
 
 export default async function RootLayout(
