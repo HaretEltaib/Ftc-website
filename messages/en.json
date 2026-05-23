@@ -1,0 +1,40 @@
+{
+    "Index": {
+        "title": "FTC Team 33554"
+    },
+    "Navigation": {
+        "home": "Home",
+        "about": "About Us",
+        "robotics": "Our Robot",
+        "sustainability": "Sustainability",
+        "team": "The Team",
+        "impact": "Community Impact"
+    },
+    "Footer": {
+        "tagline": "Building the engineers of the future.",
+        "links": "Quick Links",
+        "follow": "Follow Us",
+        "contact": "Contact Us",
+        "sponsors": "Our Sponsors",
+        "rights": "All rights reserved.",
+        "school": "Al-Shuhada Secondary School"
+    },
+    "Home": {
+        "season": "FIRST Tech Challenge 2025-2026 Season",
+        "title_building": "Building",
+        "title_engineers": "Engineers",
+        "title_of_future": "of the Future",
+        "subtitle": "The first public school FTC robotics team in Libya. We design, program, and innovate to solve complex challenges.",
+        "cta_about": "Learn More",
+        "cta_sponsor": "Sponsor Us",
+        "stats_team": "The Team",
+        "stats_team_desc": "30+ passionate students working on design, programming, and media.",
+        "stats_team_link": "Meet the Team",
+        "stats_sustainability": "Sustainability",
+        "stats_sustainability_desc": "An outstanding 9-stage sustainability model to transfer knowledge.",
+        "stats_sustainability_link": "Sustainability Map",
+        "stats_robotics": "Engineering & Robotics",
+        "stats_robotics_desc": "Excellence in mechanical design and processing AI for FIRST challenges.",
+        "stats_robotics_link": "Explore the Robot"
+    }
+}

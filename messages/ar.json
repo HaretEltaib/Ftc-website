@@ -1,0 +1,40 @@
+{
+    "Index": {
+        "title": "فريق FTC 33554"
+    },
+    "Navigation": {
+        "home": "الرئيسية",
+        "about": "من نحن",
+        "robotics": "روبوتنا",
+        "sustainability": "الاستدامة",
+        "team": "الفريق",
+        "impact": "الأثر المجتمعي"
+    },
+    "Footer": {
+        "tagline": "نبني مهندسي المستقبل.",
+        "links": "روابط سريعة",
+        "follow": "تابعنا",
+        "contact": "تواصل معنا",
+        "sponsors": "شركاء النجاح",
+        "rights": "جميع الحقوق محفوظة.",
+        "school": "ثانوية شهداء الشط"
+    },
+    "Home": {
+        "season": "FIRST Tech Challenge 2025-2026 Season",
+        "title_building": "نبني",
+        "title_engineers": "مهندسي",
+        "title_of_future": "المستقبل",
+        "subtitle": "أول فريق روبوتات في مدرسة عامة في ليبيا. نصمم، نبرمج، ونبتكر لحل أعقد التحديات.",
+        "cta_about": "تعرف علينا أكثر",
+        "cta_sponsor": "كن راعياً لنا",
+        "stats_team": "الفريق",
+        "stats_team_desc": "أكثر من 30 طالباً وطالبة يعملون بشغف في التركيب، البرمجة، والإعلام.",
+        "stats_team_link": "تعرف على الفريق",
+        "stats_sustainability": "الاستدامة",
+        "stats_sustainability_desc": "نموذج استدامة متميز من 9 مراحل لنقل المعرفة وبناء أجيال هندسية متعاقبة ومستمرة.",
+        "stats_sustainability_link": "خريطة الاستدامة",
+        "stats_robotics": "الهندسة والروبوت",
+        "stats_robotics_desc": "التميز في التصميم الميكانيكي والبرمجة بالذكاء الاصطناعي لحل تحديات FIRST.",
+        "stats_robotics_link": "استكشف الروبوت"
+    }
+}
